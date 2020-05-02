@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Standard Gallery</string>
+    <string name="transitionName">CustomTransition</string>
+</resources>
